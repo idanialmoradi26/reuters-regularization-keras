@@ -1,0 +1,8 @@
+# Versions were not recorded in the original notebooks.
+# The Keras 3 warning in the saved outputs suggests TensorFlow >= 2.16; adjust if your environment differs.
+tensorflow>=2.16
+numpy
+matplotlib
+pandas
+scikit-learn
+jupyter
